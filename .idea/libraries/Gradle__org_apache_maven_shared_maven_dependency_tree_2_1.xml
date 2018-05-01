@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.shared:maven-dependency-tree:2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.shared/maven-dependency-tree/2.1/29c4d6aeae519809b9af0607156bbdd174efb0bb/maven-dependency-tree-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.shared/maven-dependency-tree/2.1/b7ba0dd16924dd193ba6a6bdba5699c1bdd17cb9/maven-dependency-tree-2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

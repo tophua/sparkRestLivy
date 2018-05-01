@@ -1,4 +1,4 @@
-package com.comleader.bigdata;
+package com.rvder.bigdata.livy;
 
 import com.rvder.bigdata.livy.client.LivyBatchClient;
 import com.rvder.bigdata.livy.client.RunningState;
